@@ -1,5 +1,13 @@
-# ssms
+# SSMS
 Society for Student Mess Services,Bits Pilani,Pilani Campus
+
+## Objective
+An initiative to curb fake grub signing in Campus.
+Developed using Django/Python framework.
+
+## Developers
+1. Vivek Singhvi
+2. Rohit Lodha 
 
 ## Installation
 1. Clone or download the repository. 
